@@ -1,0 +1,8 @@
+# Core dependencies for simple detector
+streamlit>=1.28.0
+
+# For advanced AI detector (optional)
+google-generativeai>=0.3.0
+
+# Optional: For environment variables
+python-dotenv>=1.0.0
