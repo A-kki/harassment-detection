@@ -64,14 +64,6 @@ streamlit run app.py
 streamlit run app_advanced.py
 ```
 
-## 📊 Demo
-
-### Simple Detector
-![Simple Detector Demo](github_assets/demo_simple.png)
-
-### Advanced Detector
-![Advanced Detector Demo](github_assets/demo_advanced.png)
-
 ## 🔧 Usage
 
 ### Python Integration
@@ -220,16 +212,7 @@ This project is designed to protect students from cyberbullying, harassment, and
 - Student reporting tools
 - Social media monitoring
 
-## 🏆 Hackathon Ready
 
-Perfect for 24-hour hackathons:
-- ✅ Complete documentation
-- ✅ Working demo
-- ✅ Easy integration
-- ✅ Impressive UI
-- ✅ Real-world impact
-
----
 
 **🛡️ Protecting Students Through AI | One Message at a Time**
 
